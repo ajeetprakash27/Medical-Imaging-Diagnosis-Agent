@@ -22,7 +22,7 @@ This tool provides professional-grade analysis of medical images through an intu
 - **Secure API Management**: Secure handling of Google AI API keys
 - **Responsive Design**: Clean, professional interface optimized for medical workflows
 
-
+__________________________________________________________________________________________________________________________________________
 
 <img width="1917" height="914" alt="image" src="https://github.com/user-attachments/assets/8cd7ba49-bcaf-4877-9214-7a150817fae9" />
 
